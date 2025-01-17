@@ -1,11 +1,11 @@
 ---
-title: Welcome
+title: Home Page
 tags:
 - tag1
 - tag2
 ---
 
-## Et poposcerat rursus ad magnus premit
+## Section One
 
 Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
 cur, aut in adhuc crimina **habebat**: pro.
