@@ -1,4 +1,5 @@
 title: Block Diagram
 ---
-
-Things to discuss
+<figure>
+  <img src="Block_Diagram.png">
+</figure>
