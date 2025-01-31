@@ -2,5 +2,5 @@ title: Block Diagram
 ---
 
 My Block Diagram
-  ![]("Block_Diagram.png")
+  ![alt text]("Block_Diagram.png" "Block Diagram")
 
