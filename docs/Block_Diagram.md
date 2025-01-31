@@ -2,5 +2,5 @@ title: Block Diagram
 ---
 
 My Block Diagram
-  <img src="Block_Diagram.png">
+  ![](img src="Block_Diagram.png")
 
