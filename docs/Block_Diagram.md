@@ -1,5 +1,6 @@
 title: Block Diagram
 ---
-<figure>
+
+My Block Diagram
   <img src="Block_Diagram.png">
-</figure>
+
