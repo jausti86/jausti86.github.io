@@ -1,44 +1,43 @@
 
 3.3 Voltage Switch Regulator
-| Month        | Pros    | Cons   |
-| ----------   | ------- | ------ |
-| Solution 1:  |         |        |
-| Item 1:      |         |        |
-| Item 2:      |         |        |
-| Item 3:      |         |        |
+| Month                      | Pros   | Cons   |
+| -------------------------- | ------ |------- |
+| Solution 1:                |        |        |       
+| Item 1: TLV61048DBVR       |        |        |
+| Item 2: MCP1603T-330I/OS   |        |        |
+| Item 3: LM3671MF-3.3/NOPB  |        |        |
 
 ------
 Motor Controls
-| Month        | Pros    | Cons   |
-| ----------   | ------- | ------ |
-| Solution 2:  |         |        |
-| Item 1:      |         |        |
-| Item 2:      |         |        |
-| Item 3:      |         |        |
+| Month                      | Pros   | Cons   |
+| -------------------------- | ------ |------- |
+| Solution 2:                |        |        |       
+| Item 1: TLV61048DBVR       |        |        |
+| Item 2: MCP1603T-330I/OS   |        |        |
+| Item 3: LM3671MF-3.3/NOPB  |        |        |
 
 ------
 Motor
-| Month        | Pros    | Cons   |
-| ----------   | ------- | ------ |
-| Solution 3:  |         |        |
-| Item 1:      |         |        |
-| Item 2:      |         |        |
-| Item 3:      |         |        |
+| Month                      | Pros   | Cons   |
+| -------------------------- | ------ |------- |
+| Solution 3:                |        |        |       
+| Item 1: TLV61048DBVR       |        |        |
+| Item 2: MCP1603T-330I/OS   |        |        |
+| Item 3: LM3671MF-3.3/NOPB  |        |        |
 
 ------
 Microcontroller
-| Month        | Pros    | Cons   |
-| ----------   | ------- | ------ |
-| Solution 4:  |         |        |
-| Item 1:      |         |        |
-| Item 2:      |         |        |
-| Item 3:      |         |        |
+| Month                      | Pros   | Cons   |
+| -------------------------- | ------ |------- |
+| Solution 4:                |        |        |       
+| Item 1: TLV61048DBVR       |        |        |
+| Item 2: MCP1603T-330I/OS   |        |        |
+| Item 3: LM3671MF-3.3/NOPB  |        |        |
 
 ------
 
 
-Solution 1: | Pros | Cons |
----
+
 Item 1:  TLV61048DBVR   | Have Surface Mount | no
              | Cheap  | bad
              | Compatible with MPLAB X | 
