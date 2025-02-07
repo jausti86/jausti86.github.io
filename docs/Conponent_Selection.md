@@ -1,3 +1,4 @@
+
 Component Selection
 
 ------
@@ -50,12 +51,27 @@ Micro Controller
 ---
 Solution 4: | Pros | Cons |
 ---
-Item 1:  ESP32   |    | no
+Item 1:  ESP32   |         yes | no
              |good   | bad
 ---
-Item 2:  PIC18F47Q10   |    yes | no
+Item 2:  PIC18F47Q10   |   yes | no
              |good   | bad
 ---
 Item 3:  PIC18F2480   |    yes | no
+             |good   | bad
+--
+
+------
+TBD
+---
+Solution 5: | Pros | Cons |
+---
+Item 1:  TBD |    yes | no
+             |good   | bad
+---
+Item 2:  TBD |    yes | no
+             |good   | bad
+---
+Item 3:  TBD |    yes | no
              |good   | bad
 --
