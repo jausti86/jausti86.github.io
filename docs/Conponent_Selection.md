@@ -59,7 +59,7 @@ Item 2:  PIC18F47Q10   |   yes | no
 ---
 Item 3:  PIC18F2480   |    yes | no
              |good   | bad
---
+---
 
 ------
 TBD
@@ -74,4 +74,4 @@ Item 2:  TBD |    yes | no
 ---
 Item 3:  TBD |    yes | no
              |good   | bad
---
+---
