@@ -1,9 +1,42 @@
 
-Component Selection
+3.3 Voltage Switch Regulator
+| Month        | Pros    | Cons   |
+| ----------   | ------- | ------ |
+| Solution 1:  |         |        |
+| Item 1:      |         |        |
+| Item 2:      |         |        |
+| Item 3:      |         |        |
 
 ------
-3.3 Voltage Switch Regulator
----
+Motor Controls
+| Month        | Pros    | Cons   |
+| ----------   | ------- | ------ |
+| Solution 2:  |         |        |
+| Item 1:      |         |        |
+| Item 2:      |         |        |
+| Item 3:      |         |        |
+
+------
+Motor
+| Month        | Pros    | Cons   |
+| ----------   | ------- | ------ |
+| Solution 3:  |         |        |
+| Item 1:      |         |        |
+| Item 2:      |         |        |
+| Item 3:      |         |        |
+
+------
+Microcontroller
+| Month        | Pros    | Cons   |
+| ----------   | ------- | ------ |
+| Solution 4:  |         |        |
+| Item 1:      |         |        |
+| Item 2:      |         |        |
+| Item 3:      |         |        |
+
+------
+
+
 Solution 1: | Pros | Cons |
 ---
 Item 1:  TLV61048DBVR   | Have Surface Mount | no
