@@ -14,6 +14,7 @@ Component Selection:
 | $1.56/each                              |  Meets the Surface Mount Requirement   | Temperature could over heat   |
 |                                         |  High efficiency                       |                               |
 
+
 ------
 Motor Controls
 | Solution 2                              | Pros                                   | Cons                          |
@@ -27,6 +28,7 @@ Motor Controls
 | Item 3: BD63510AEFV-E2                  |  Cheap                                 |  Required resistors           |
 | $2.84/each                              |  Meets the Surface Mount Requirement   | Temperature could over heat   |
 |                                         |  Stable over operating temperature     |                               |
+
 
 ------
 Motor
@@ -42,6 +44,7 @@ Motor
 | $4.04/each                              |  Stable over operating temperature     | Low efficiency                |
 |                                         |  High Current                          |                               |
 
+
 ------
 Microcontroller
 | Solution 4                              | Pros                                   | Cons                          |
@@ -55,3 +58,4 @@ Microcontroller
 | Item 3: PIC18F2480                      |  Cheap                                 | Could get errors              |
 | $6.99/each                              |  Meets the Surface Mount Requirement   | External Clock Mode           | 
 |                                         |  Stable over operating temperature     |                               |
+
