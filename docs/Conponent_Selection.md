@@ -2,7 +2,7 @@
 title: Component Selection
 ---
 
-## Component Seclection
+## Component Selection
 
 3.3 Voltage Switch Regulator
 | Solution 1                              | Pros                                   | Cons                          |
