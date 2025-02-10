@@ -8,6 +8,7 @@ title: Component Selection
 | **Solution 1**                          | **Pros**                               | **Cons**                      |
 | --------------------------------------- | -------------------------------------- | ----------------------------- |
 | Item 1: TLV61048DBVR <br>$0.63/each     |  Cheap<br>Meets the Surface Mount Requirement<br> High efficiency      | External Components<br>Low Voltage|
+
 | Item 2: MCP1603T-330I/OS                |  Cheap                                 | Temperature could over heat   |
 | $1.32/each                              |  Meets the Surface Mount Requirement   | Could short circuit           |
 |                                         |  Low output ripple                     |                               |
