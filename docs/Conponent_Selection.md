@@ -4,8 +4,8 @@ title: Component Selection
 
 ## Component Selection
 
-3.3 Voltage Switch Regulator
-| Solution 1                              | Pros                                   | Cons                          |
+**3.3 Voltage Switch Regulator**
+| **Solution 1**                          | **Pros**                               | **Cons**                      |
 | --------------------------------------- | -------------------------------------- | ----------------------------- |     
 | Item 1: TLV61048DBVR                    |  Cheap                                 | External Components           |
 | $0.63/each                              |  Meets the Surface Mount Requirement   | Low Voltage                   |
@@ -19,8 +19,8 @@ title: Component Selection
 
 
 
-Motor Controls
-| Solution 2                              | Pros                                   | Cons                          |
+**Motor Controls**
+| **Solution 2**                          | **Pros**                               | **Cons**                      |
 | --------------------------------------- | -------------------------------------- | ----------------------------- |
 | Item 1: TC78H660FNG                     |  Cheap                                 |  Required resistors           |
 | $1.94/each                              |  Meets the Surface Mount Requirement   |  could get errors             |
@@ -34,8 +34,8 @@ Motor Controls
 
 
 
-Motor
-| Solution 3                              | Pros                                   | Cons                          |
+**Motor**
+| **Solution 3**                          | **Pros**                               | **Cons**                      |
 | --------------------------------------- | -------------------------------------- | ----------------------------- |    
 | Item 1: ROB-11696                       |  Cheap                                 | Required external components  |
 | $2.10/each                              |  Can be found in EGR 314 Class         | Long Manufacture time         |
@@ -48,8 +48,8 @@ Motor
 |                                         |  High Current                          |                               |
 
 
-Microcontroller
-| Solution 4                              | Pros                                   | Cons                          |
+**Microcontroller**
+| **Solution 4**                          | **Pros**                               | **Cons**                      |
 | --------------------------------------- | -------------------------------------- | ----------------------------- |  
 | Item 1: ESP32                           |  Can be found in EGR 314 Class         | Low Power                     |
 | $8.00/each                              |  It outputs a good frequency level     | External Oscillator           |
