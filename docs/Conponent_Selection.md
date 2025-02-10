@@ -1,5 +1,8 @@
+---
+title: Component Selection
+---
 
-Component Selection:
+## Component Seclection
 
 3.3 Voltage Switch Regulator
 | Solution 1                              | Pros                                   | Cons                          |
@@ -7,7 +10,6 @@ Component Selection:
 | Item 1: TLV61048DBVR                    |  Cheap                                 | External Components           |
 | $0.63/each                              |  Meets the Surface Mount Requirement   | Low Voltage                   |
 |                                         |  High efficiency                       |                               |
-|---| ---- | ----|
 | Item 2: MCP1603T-330I/OS                |  Cheap                                 | Temperature could over heat   |
 | $1.32/each                              |  Meets the Surface Mount Requirement   | Could short circuit           |
 |                                         |  Low output ripple                     |                               |
@@ -16,7 +18,7 @@ Component Selection:
 |                                         |  High efficiency                       |                               |
 
 
-------
+
 Motor Controls
 | Solution 2                              | Pros                                   | Cons                          |
 | --------------------------------------- | -------------------------------------- | ----------------------------- |
@@ -31,7 +33,7 @@ Motor Controls
 |                                         |  Stable over operating temperature     |                               |
 
 
-------
+
 Motor
 | Solution 3                              | Pros                                   | Cons                          |
 | --------------------------------------- | -------------------------------------- | ----------------------------- |    
@@ -46,7 +48,6 @@ Motor
 |                                         |  High Current                          |                               |
 
 
-------
 Microcontroller
 | Solution 4                              | Pros                                   | Cons                          |
 | --------------------------------------- | -------------------------------------- | ----------------------------- |  
