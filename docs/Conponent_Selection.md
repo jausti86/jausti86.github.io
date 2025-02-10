@@ -5,6 +5,7 @@ title: Component Selection
 ## Component Selection
 
 **3.3 Voltage Switch Regulator**
+
 | **Solution 1**                          | **Pros**                               | **Cons**                      |
 | --------------------------------------- | -------------------------------------- | ----------------------------- |
 | Item 1: TLV61048DBVR <br>$0.63/each     |  Cheap<br>Meets the Surface Mount Requirement<br> High efficiency      | External Components<br>Low Voltage|
