@@ -6,16 +6,11 @@ title: Component Selection
 
 **3.3 Voltage Switch Regulator**
 
-| **Solution 1**                          | **Pros**                               | **Cons**                      |
-| --------------------------------------- | -------------------------------------- | ----------------------------- |
+| **Solution 1**                          | **Pros**                                                               | **Cons**                          |    
+| --------------------------------------- | ---------------------------------------------------------------------  | ----------------------------------|
 | Item 1: TLV61048DBVR <br>$0.63/each     |  Cheap<br>Meets the Surface Mount Requirement<br> High efficiency      | External Components<br>Low Voltage|
-
-| Item 2: MCP1603T-330I/OS                |  Cheap                                 | Temperature could over heat   |
-| $1.32/each                              |  Meets the Surface Mount Requirement   | Could short circuit           |
-|                                         |  Low output ripple                     |                               |
-| Item 3: LM3671MF-3.3/NOPB               |  Cheap                                 | Required External Components  |
-| $1.56/each                              |  Meets the Surface Mount Requirement   | Temperature could over heat   |
-|                                         |  High efficiency                       |                               |
+| Item 2: MCP1603T-330I/OS <br>$1.32/each |  Cheap<br>Meets the Surface Mount Requirement<br> Low output ripple    | Temperature could over heat<br>Could short circuit|
+| Item 3: LM3671MF-3.3/NOPB <br>$1.56/each|  Cheap<br>Meets the Surface Mount Requirement<br> High efficiency      |ExternalComponents<br>Temperature could over heat |
 
 
 
