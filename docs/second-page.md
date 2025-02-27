@@ -1,5 +1,10 @@
 ---
-title: Second Page
+title: Team Members
+---
+James 
+---
+Rishik 
+---
+Sophie
 ---
 
-Things to discuss
