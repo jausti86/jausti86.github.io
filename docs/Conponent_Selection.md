@@ -36,6 +36,6 @@ title: Component Selection
 
 | **Solution 4**                          | **Pros**                                                              | **Cons**                          |
 | --------------------------------------- | --------------------------------------------------------------------- | --------------------------------- |  
-| Item 1: ESP32<br> $8.00/each            |  Can be found in EGR 314 Class<br>It outputs a good frequency level<br> High Speed | Low Power<br>  External Oscillator                                |
+| Item 1: ESP32-WROOM<br> $8.00/each      |  Can be found in EGR 314 Class<br>It outputs a good frequency level<br> High Speed | Low Power<br>  External Oscillator                                |
 | Item 2: PIC18F47Q10<br> $2.52/each      |  Can be found in EGR 314 Class<br>Stable over operating temperature<br> High Memory  | Low Current<br> Low Power                                     |
 | Item 3: PIC18F2480<br> $6.99/each       |  Cheap<br>Meets the Surface Mount Requirement<br> Stable over operating temperature  | Could get errors<br> External Clock Mode                       |
