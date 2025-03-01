@@ -21,12 +21,12 @@
 | Toshiba Semiconductor and Storage |                        |                 |                    |              |                   |               |
 | SparkFun Electronics              |                        |                 |                    |              |                   |               |    
 | Microchip Technology              |                        |                 |                    |              |                   |               |
-|                                   |                        |                 |                    |              |                   |               |
-|                                   |                        |                 |                    |              |                   |               |
-|                                   |                        |                 |                    |              |                   |               |
-|                                   |                        |                 |                    |              |                   |               |
-|                                   |                        |                 |                    |              |                   |               |
-|                                   |                        |                 |                    |              |                   |               |
+| Texas Instruments                 |                        |                 |                    |              |                   |               |
+| Diotec Semiconductor              |                        |                 |                    |              |                   |               |
+| Adafruit Industries LLC           |                        |                 |                    |              |                   |               |
+| CW Industries                     |                        |                 |                    |              |                   |               |
+| Rubycon                           |                        |                 |                    |              |                   |               |
+| Microchip Technology              |                        |                 |                    |              |                   |               |
 
 
 | **Date Ordered** | **# Receive** | **Surplus** | **Schematic Reference Designators** |
