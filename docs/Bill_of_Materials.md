@@ -5,8 +5,7 @@
 | 3.3 Voltage Switch Regulator |                   |                    |                     |                          |                           |
 | Motor Controls               |                   |                    |                     |                          |                           |
 | Motor                        |                   |                    |                     |                          |                           |
-| Microcontroller              |                   |                    |                     |                          |                           |
-| DC Plug                      |                   |                    |                     |                          |                           |
+| Microcontroller              |                   |                    |                     |                          |                           |      
 | Fuse                         |                   |                    |                     |                          |                           |
 | Diode                        |                   |                    |                     |                          |                           |
 | Jumper                       |                   |                    |                     |                          |                           |
@@ -16,34 +15,29 @@
 
 ----
 
-| **Manufacturer** | **Manufacturer Parts** | **Vendor Link** | **Datasheet Link** | **Supplier** | **Supplier Part** | **# Ordered** | **Date Ordered** |
-| ---------------- | ---------------------- | ----------------| ------------------ | -------------| ------------------|---------------|------------------|
-|                  |                        |                 |                    |              |                   |               |                  |
-|                  |                        |                 |                    |              |                   |               |                  |
-|                  |                        |                 |                    |              |                   |               |                  |
-|                  |                        |                 |                    |              |                   |               |                  |
-|                  |                        |                 |                    |              |                   |               |                  |
-|                  |                        |                 |                    |              |                   |               |                  |
-|                  |                        |                 |                    |              |                   |               |                  |
-|                  |                        |                 |                    |              |                   |               |                  |
-|                  |                        |                 |                    |              |                   |               |                  |
-|                  |                        |                 |                    |              |                   |               |                  |
-|                  |                        |                 |                    |              |                   |               |                  |
-                
+| **Manufacturer**                  | **Manufacturer Parts** | **Vendor Link** | **Datasheet Link** | **Supplier** | **Supplier Part** | **# Ordered** |   
+| --------------------------------- | ---------------------- | --------------- | ------------------ | ------------ | ----------------- | ------------- |
+| Texas Instruments                 |                        |                 |                    |              |                   |               |
+| Toshiba Semiconductor and Storage |                        |                 |                    |              |                   |               |
+| SparkFun Electronics              |                        |                 |                    |              |                   |               |    
+| Microchip Technology              |                        |                 |                    |              |                   |               |
+|                                   |                        |                 |                    |              |                   |               |
+|                                   |                        |                 |                    |              |                   |               |
+|                                   |                        |                 |                    |              |                   |               |
+|                                   |                        |                 |                    |              |                   |               |
+|                                   |                        |                 |                    |              |                   |               |
+|                                   |                        |                 |                    |              |                   |               |
 
-----
 
-| **# Receive** | **Surplus** | **Schematic Reference Designators** |
-| ------------- | ----------- | ----------------------------------- |
-|               |             |                                     |
-|               |             |                                     |
-|               |             |                                     |
-|               |             |                                     |
-|               |             |                                     |
-|               |             |                                     |
-|               |             |                                     |
-|               |             |                                     |
-|               |             |                                     |
-|               |             |                                     |
-|               |             |                                     |
-
+| **Date Ordered** | **# Receive** | **Surplus** | **Schematic Reference Designators** |
+| ---------------- | ------------- | ----------- | ----------------------------------- |
+|                  |               |             |                                     |
+|                  |               |             |                                     |
+|                  |               |             |                                     |
+|                  |               |             |                                     |
+|                  |               |             |                                     |
+|                  |               |             |                                     |
+|                  |               |             |                                     |
+|                  |               |             |                                     |
+|                  |               |             |                                     |
+|                  |               |             |                                     |
