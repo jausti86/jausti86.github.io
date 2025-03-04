@@ -15,18 +15,18 @@
 
 ----
 
-| **Manufacturer**                  | **Manufacturer Parts** |       **Vendor Link**                 |              **Datasheet Link**                     |
-| --------------------------------- | ---------------------- | ------------------------------------- | --------------------------------------------------- |
-| Texas Instruments                 | TLV61048DBVR           | [Link]()                              | [Link]()                                            |
-| Toshiba Semiconductor and Storage | TC78H660FNG,EL         | [Link]()                              | [Link]()                                            |
-| SparkFun Electronics              | ROB-11696              | [Link]()                              | [Link]()                                            |
-| Microchip Technology              | PIC18F47Q10-I/P        | [Link]()                              | [Link]()                                            |
-| Littelfuse Inc.                   |	0239003.HXEP           | [Link]()                              | [Link]()                                            |
-| Diotec Semiconductor              | 1N4007                 | [Link]()                              | [Link]()                                            |
-| Adafruit Industries LLC           | 1957                   | [Link]()                              | [Link]()                                            |
-| CW Industries                     | GPTS203211B            | [Link]()                              | [Link]()                                            |
-| Rubycon                           | 35ZLH330MEFCT810X12.5  | [Link]()                              | [Link]()                                            |
-| Bourns Inc.                       | RLB9012-221KL          | [Link]()                              | [Link]()                                            |
+| **Manufacturer**                  | **Manufacturer Parts** |       **Vendor Link**              |                   **Datasheet Link**                   |
+| --------------------------------- | ---------------------- | ---------------------------------- | ------------------------------------------------------ |
+| Texas Instruments                 | TLV61048DBVR           | [Link]()                           | [Product](https://www.ti.com/lit/ds/symlink/tlv61048)  |
+| Toshiba Semiconductor and Storage | TC78H660FNG,EL         | [Link]()                           | [Link]()                                               |
+| SparkFun Electronics              | ROB-11696              | [Link]()                           | [Link]()                                               |
+| Microchip Technology              | PIC18F47Q10-I/P        | [Link]()                           | [Link]()                                               |
+| Littelfuse Inc.                   |	0239003.HXEP           | [Link]()                           | [Link]()                                               |
+| Diotec Semiconductor              | 1N4007                 | [Link]()                           | [Link]()                                               |
+| Adafruit Industries LLC           | 1957                   | [Link]()                           | [Link]()                                               |
+| CW Industries                     | GPTS203211B            | [Link]()                           | [Link]()                                               |
+| Rubycon                           | 35ZLH330MEFCT810X12.5  | [Link]()                           | [Link]()                                               |
+| Bourns Inc.                       | RLB9012-221KL          | [Link]()                           | [Link]()                                               |
 
 ----
 
