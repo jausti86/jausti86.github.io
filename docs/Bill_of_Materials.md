@@ -1,17 +1,17 @@
 **Bill of Materials**
 
-|  **Part Name/Description**   | **Unit Quantity** | **Unit Prototype** | **Total Prototype** | **Unit Production Cost** | **Total Production Cost** |
-| ---------------------------- | ----------------- | ------------------ | ------------------- | ------------------------ | ------------------------- |
-| 3.3 Voltage Switch Regulator |                   |                    |                     |                          |                           |
-| Motor Controls               |                   |                    |                     |                          |                           |
-| Motor                        |                   |                    |                     |                          |                           |
-| Microcontroller              |                   |                    |                     |                          |                           |      
-| Fuse                         |                   |                    |                     |                          |                           |
-| Diode                        |                   |                    |                     |                          |                           |
-| Jumper                       |                   |                    |                     |                          |                           |
-| Switch                       |                   |                    |                     |                          |                           |
-| 330μC Capacitor              |                   |                    |                     |                          |                           |
-| 330μF Inductor               |                   |                    |                     |                          |                           |
+| **Part Name/Description** | **Unit Quantity** | **Unit Prototype Cost** | **Total Prototype Cost** | **Unit Production Cost** | **Total Production Cost**|
+| --------------------------| ----------------- | ----------------------- | ------------------------ | ------------------------ | -------------------------|
+| Voltage Switch Regulator  | 1                 | $0.63                   |  $0.63                   |                          |                          |
+| Motor Controls            |                   |                         |                          |                          |                          |
+| Motor                     |                   |                         |                          |                          |                          |
+| Microcontroller           |                   |                         |                          |                          |                          |
+| Fuse                      |                   |                         |                          |                          |                          |
+| Diode                     |                   |                         |                          |                          |                          |
+| Jumper                    |                   |                         |                          |                          |                          |
+| Switch                    |                   |                         |                          |                          |                          |
+| 330μC Capacitor           |                   |                         |                          |                          |                          |
+| 330μF Inductor            |                   |                         |                          |                          |                          |
 
 ----
 
@@ -21,12 +21,12 @@
 | Toshiba Semiconductor and Storage | TC78H660FNG,EL         | [Link]()                              | [Link]()                                      |
 | SparkFun Electronics              | ROB-11696              | [Link]()                              | [Link]()                                      | 
 | Microchip Technology              | PIC18F47Q10-I/P        | [Link]()                              | [Link]()                                      |
-| Texas Instruments                 | TPS25921ADR            | [Link]()                              | [Link]()                                      |   
+| Littelfuse Inc.                   |	0239003.HXEP           | [Link]()                              | [Link]()                                      |   
 | Diotec Semiconductor              | 1N4007                 | [Link]()                              | [Link]()                                      |
 | Adafruit Industries LLC           | 1957                   | [Link]()                              | [Link]()                                      |      
 | CW Industries                     | GPTS203211B            | [Link]()                              | [Link]()                                      |
 | Rubycon                           | 35ZLH330MEFCT810X12.5  | [Link]()                              | [Link]()                                      |   
-| Microchip Technology              | MIC33153-SYHJ-TR       | [Link]()                              | [Link]()                                      |
+| Bourns Inc.                       | RLB9012-221KL          | [Link]()                              | [Link]()                                      |
 
 ----
 
