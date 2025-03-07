@@ -7,9 +7,9 @@
 | Motor                     | 1                 | $2.10                   |  $2.10                   |                          |                          |
 | Microcontroller           | 1                 | $2.52                   |  $2.52                   |                          |                          |
 | Fuse                      | 1                 | $1.99                   |  $1.99                   |                          |                          |
-| Diode                     | 2                 | $0.10                   |  $0.20                   |                          |                          |
+| Diode                     | 1                 | $0.10                   |  $0.10                   |                          |                          |
 | Jumper                    | 1                 | $1.95                   |  $1.95                   |                          |                          |
-| Switch                    | 1                 | $1.87                   |  $1.87                   |                          |                          |
+| 1kΩ Resistor              | 2                 | $0.10                   |  $0.20                   |                          |                          |
 | 330μC Capacitor           | 2                 | $0.57                   |  $1.14                   |                          |                          |
 | 330μF Inductor            | 1                 | $0.58                   |  $0.58                   |                          |                          |
 
@@ -24,7 +24,7 @@
 | Littelfuse Inc.                   |	0239003.HXEP           | [Vendor]()                         | [DataSheet]()                                          |
 | Diotec Semiconductor              | 1N4007                 | [Vendor]()                         | [DataSheet]()                                          |
 | Adafruit Industries LLC           | 1957                   | [Vendor]()                         | [DataSheet]()                                          |
-| CW Industries                     | GPTS203211B            | [Vendor]()                         | [DataSheet]()                                          |
+| Stackpole Electronics Inc         | RNF14FTD1K00           | [Vendor]()                         | [DataSheet]()                                          |
 | Rubycon                           | 35ZLH330MEFCT810X12.5  | [Vendor]()                         | [DataSheet]()                                          |
 | Bourns Inc.                       | RLB9012-221KL          | [Vendor]()                         | [DataSheet]()                                          |
 
