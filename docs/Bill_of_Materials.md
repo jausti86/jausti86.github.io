@@ -12,6 +12,11 @@
 | 1kΩ Resistor              | 2                 | $0.10                   |  $0.20                   |                          |                          |
 | 1μF Capacitor             | 2                 | $0.57                   |  $1.14                   |                          |                          |
 | 4.7μH Inductor            | 1                 | $0.58                   |  $0.58                   |                          |                          |
+| LEDs                      | 1                 | $0.17                   |  $0.17                   |                          |                          |
+| Pushbuttons               | 1                 | $1.87                   |  $1.87                   |                          |                          |
+| Power Jack                | 1                 | $0.49                   |  $0.49                   |                          |                          |
+| Header                    | 2                 | $4.93                   |  $9.86                   |                          |                          |
+
 
 ----
 
@@ -27,11 +32,19 @@
 | Stackpole Electronics Inc         | RNF14FTD1K00           | [Vendor]()                         | [DataSheet]()                                          |
 | Rubycon                           | 35ZLH330MEFCT810X12.5  | [Vendor]()                         | [DataSheet]()                                          |
 | Bourns Inc.                       | RLB9012-221KL          | [Vendor]()                         | [DataSheet]()                                          |
+| Lite-On Inc.                      | LTL1CHKRKNN            | [Vendor]()                         | [DataSheet]()                                          |
+| CW Industries                     | GPTS203211B            | [Vendor]()                         | [DataSheet]()                                          |
+| Same Sky (Formerly CUI Devices)   | PJ-002B                | [Vendor]()                         | [DataSheet]()                                          |
+| Harwin Inc.                       | D01-9922046            | [Vendor]()                         | [DataSheet]()                                          |
 
 ----
 
 |  **Supplier**   |        **Supplier Part**        | **# Ordered** | **Date Ordered** | **# Receive** | **Surplus** | **Schematic Reference Designators** |
 | --------------- | ------------------------------- | ------------- | ---------------- | ------------- | ----------- | ----------------------------------- |
+|                 |                                 |               |  TBD             |               |             |                                     |
+|                 |                                 |               |  TBD             |               |             |                                     |
+|                 |                                 |               |  TBD             |               |             |                                     |
+|                 |                                 |               |  TBD             |               |             |                                     |
 |                 |                                 |               |  TBD             |               |             |                                     |
 |                 |                                 |               |  TBD             |               |             |                                     |
 |                 |                                 |               |  TBD             |               |             |                                     |
